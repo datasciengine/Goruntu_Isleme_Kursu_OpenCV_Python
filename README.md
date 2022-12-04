@@ -5,13 +5,13 @@
 Merhabalar, ders akışını kolayca takip edebilmek için bu müfredatı metin sunum formatında oluşturdum. Dersler online işlenip kayıt altına alındıktan sonra youtube kanalımda herkese açık olarak paylaşılacaktır.
 
 
-1. Day (Nov 12 2022)
+### 1. Day (Nov 12 2022)
 
-### 1.1 — Görüntü İşlemeye Giriş, Temel Kavramlar
+#### 1.1 — Görüntü İşlemeye Giriş, Temel Kavramlar
 
-1.2 — Renk Uzayları ve Geçişler
+#### 1.2 — Renk Uzayları ve Geçişler
 
-1.3 — Konturlar ve Kenar Bulma
+#### 1.3 — Konturlar ve Kenar Bulma
 
 
 2. Day (Nov 13 2022)
