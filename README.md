@@ -7,7 +7,7 @@ Merhabalar, ders akışını kolayca takip edebilmek için bu müfredatı metin 
 
 ### 1. Day (Nov 12 2022)
 
-#### 1.1 — Görüntü İşlemeye Giriş, Temel Kavramlar
+#### [1.1 — Görüntü İşlemeye Giriş, Temel Kavramlar](https://www.google.com)
 
 #### 1.2 — Renk Uzayları ve Geçişler
 
@@ -31,7 +31,7 @@ Merhabalar, ders akışını kolayca takip edebilmek için bu müfredatı metin 
 
 #### 3.2 — Filtreleme Mantığı, Sobel, Kirsh, Robinson, Prewitt, Scharr…
 
-#### 3.3 — OpenCV ile Video ve WebCam Okumak
+#### 3.3 — OpenCV ile Video ve Web Cam Okumak
 
 
 ### 4. Day (Nov 20 2022)
@@ -45,16 +45,16 @@ Merhabalar, ders akışını kolayca takip edebilmek için bu müfredatı metin 
 #### 4.4 — OpenCV ile Translate, Resize, Rotation
 
 
-### 5. Day (Nov 20 2022)
+### 5. Day (Dec 3 2022)
 
 #### 5.0 — Yapay Zeka Yüzü Nasıl Tespit Eder? (Detaylı)
 
 
-### 6. Day (Nov 20 2022)
+### 6. Day (Dec 4 2022)
 
 #### 6.0 — Yüz Tespit Modeli ve Kodlaması
 
 
-### 7. Day (Nov 20 2022)
+### 7. Day (Dec 5 2022)
 
 #### 7.0 — Kendi Yüz Tanıma Modelinizi Oluşturun
