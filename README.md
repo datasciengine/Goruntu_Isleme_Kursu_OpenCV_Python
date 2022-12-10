@@ -45,6 +45,16 @@ Merhabalar, ders akışını kolayca takip edebilmek için bu müfredatı metin 
 #### 4.4 — OpenCV ile Translate, Resize, Rotation
 
 
+### 5. Day (Nov 20 2022)
+
+#### 5.0 — Yapay Zeka Yüzü Nasıl Tespit Eder? (Detaylı)
 
 
+### 6. Day (Nov 20 2022)
 
+#### 6.0 — Yüz Tespit Modeli ve Kodlaması
+
+
+### 7. Day (Nov 20 2022)
+
+#### 7.0 — Kendi Yüz Tanıma Modelinizi Oluşturun
