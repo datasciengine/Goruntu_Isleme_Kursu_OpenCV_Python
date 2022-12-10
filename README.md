@@ -2,8 +2,11 @@
 
 ## _Yildiz Technical University TEKNOFEST_
 
-Merhabalar, ders akışını kolayca takip edebilmek için bu müfredatı metin sunum formatında oluşturdum. Dersler online işlenip kayıt altına alındıktan sonra youtube kanalımda herkese açık olarak paylaşılacaktır.
+Selam, bu kurs planı YTU MEDITEK (Yıldız Teknik Üniversitesi Medikal Teknolojiler Kulübü) için TEKNOFEST çalışmalarında asiste edici olmak adına hazırlanmıştır. Python ve OpenCV teknolojileri kullanılarak görüntü işleme konusunda yeni başlayacak veya biraz bilgisi olan arkadaşlara faydalı olmasını diliyorum.
 
+Dersleri canlı bir şekilde işlerken aynı zamanda youtube'a atmak üzere kayıt da aldığımız için aşağıdaki youtube oynatma listesinden tüm dersleri izlemeniz mümkün. 
+
+## [Youtube Oynatma Listesi](https://www.youtube.com/playlist?list=PLglxyKu9SklJI-HizUgkARjCoP-fCB0_Q)
 
 ### 1. Day (Nov 12 2022)
 
